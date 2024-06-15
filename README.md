@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Marulanda</h1>
-<h3 align="center">A passionate Computer Mathematics student @ Carleton University</h3>
+<h3 align="center">A passionate Computer Science student @ Carleton University</h3>
 
 - 🌱 I’m currently learning **Algorithms, Tensorflow, and Rust**
 
